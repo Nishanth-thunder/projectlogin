@@ -1,3 +1,3 @@
 theme: jekyll-theme-cayman
-- name: WordPress Plugin Deploy
-  uses: 10up/action-wordpress-plugin-deploy@2.0.0
+name: WordPress Plugin Deploy
+uses: 10up/action-wordpress-plugin-deploy@2.0.0
